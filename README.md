@@ -1,6 +1,3 @@
-# sde-hiring
-Overall Interview Process for Service &amp; Data
+# Services & Data Engineering - Hiring Process
 
-Intent is to make this public in the future with prep guides etc
-
-For now, go here: https://github.bamtech.co/pages/hiring/services/
+This repository contains useful resources to guide interviewers and candidates through the SDE hiring process. We want everyone to be as relaxed as possible - and transparency in our process is a big part of that.
